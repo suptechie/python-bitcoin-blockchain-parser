@@ -6,7 +6,7 @@ setup(
     name='blockchain-parser',
     version=__version__,
     packages=find_packages(),
-    url='https://github.com/alecalve/python-bitcoin-blockchain-parser',
+    url='https://github.com/suptechie/python-bitcoin-blockchain-parser',
     author='Antoine Le Calvez',
     author_email='antoine@p2sh.info',
     description='Bitcoin blockchain parser',
